@@ -10,7 +10,7 @@
 
 # 图片相对路径
 
-！[problem 1.1](_2024-finalproject/huasheng-maker/1 (2).png)
+！[problem 1.1](1 (2).png)
 
 ！[problem 1.2]()
 
