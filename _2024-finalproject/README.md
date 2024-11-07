@@ -8,11 +8,11 @@
 
 4.初步学习到chain of thought的思维方式，一开始寻找信息没有逻辑，容易跑偏，现在我会列出我要实现目标之前大概需要解决的问题，然后将这些问题拆分成几个步骤解决。（虽然经常没有头绪……）
 
-#图片相对路径
+# 图片相对路径
 
-！[problem 1.1](1.png)
+！[problem 1.1](_2024-finalproject/huasheng-maker/1 (2).png)
 
-！[problem 1.2](1(2).png)
+！[problem 1.2]()
 
 ！[problem 2.1](2.png)
 
