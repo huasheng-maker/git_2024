@@ -12,12 +12,12 @@
 
 ！[problem 1.1](huasheng-maker/1.png)
 
-！[problem 1.2](huasheng-maker/1(2).png)
+！[problem 1.2](huasheng-maker/1_2.png)
 
 ！[problem 2.1](2.png)
 
-！[problem 2.2](2(2).png)
+！[problem 2.2](2_2.png)
 
 ！[problem 3.1](3.png)
 
-！[problem 3.1](3(2).png)
+！[problem 3.1](3_2.png)
